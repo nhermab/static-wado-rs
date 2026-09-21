@@ -1,4 +1,4 @@
-# static-wado-rs
+# static-wado-rs (serve only dicom part 10 objects from your hard drive at launch time without the ability to change anything) 
 
 A lightweight, dependency-free static WADO-RS server written in pure Python.
 
